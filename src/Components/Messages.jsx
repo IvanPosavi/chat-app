@@ -11,16 +11,20 @@ class Messages extends Component {
   }
 
   scrollToBottom() {
-    this.el.scrollIntoView({ behavior: 'smooth' });
+    this.el.scrollIntoView({ behavior: "smooth" });
   }
+
   render() {
     const { messages } = this.props;
     return (
       <ul className="Messages-list">
         {messages.map((m) => this.renderMessage(m))}
-        <div ref={el => { this.el = el; }} />
+        <div
+          ref={(el) => {
+            this.el = el;
+          }}
+        />
       </ul>
-      
     );
   }
 
@@ -41,9 +45,7 @@ class Messages extends Component {
           <div className="username">{member.clientData.username}</div>
           <div className="text">{text}</div>
         </div>
-        
       </li>
-      
     );
   }
 }
