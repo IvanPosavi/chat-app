@@ -7,7 +7,7 @@ The application allows multiple users to communicate in real time directly throu
 ## 🚀 Live Demo
 
 <a href="https://github.com/IvanPosavi/chat-app">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/🌐%20Visit%20Website-21759B?style=for-the-badge" alt="Visit Website">
 </a>
 
 ---
