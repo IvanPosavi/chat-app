@@ -6,7 +6,9 @@ The application allows users to communicate with each other directly through the
 
 ## 🚀 Live Demo
 
-🔗https://ivanposavi.github.io/chat-app/
+🔗 **[Open Chat App]((https://ivanposavi.github.io/chat-app/))**
+
+> Replace the link above with the URL of your deployed application.
 
 ---
 
@@ -132,6 +134,7 @@ Front-End Developer
 ---
 
 ### 💡 Built with React while learning, experimenting, and improving.
+
 
 
 # Getting Started with Create React App
