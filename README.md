@@ -6,7 +6,9 @@ The application allows multiple users to communicate in real time directly throu
 
 ## 🚀 Live Demo
 
-🔗 **[Open Chat App](https://ivanposavi.github.io/chat-app/)**
+<a href="https://github.com/IvanPosavi/chat-app">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 ---
 
@@ -118,7 +120,7 @@ Some features I would like to add in future versions:
 
 Front-End Developer
 
-[![GitHub](https://img.shields.io/badge/GitHub-IvanPosavi-181717?style=for-the-badge\&logo=github)](https://github.com/IvanPosavi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/IvanPosavi)
 
 ---
 
