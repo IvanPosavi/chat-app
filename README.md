@@ -6,9 +6,9 @@ The application allows users to communicate with each other directly through the
 
 ## 🚀 Live Demo
 
-🔗 **[Open Chat App]([#](https://ivanposavi.github.io/chat-app/))**
+🔗https://ivanposavi.github.io/chat-app/
 
-> Replace the link above with the URL of your deployed application.
+> Replace the link above with the URL of your deployed application.](https://ivanposavi.github.io/chat-app/)
 
 ---
 
