@@ -8,8 +8,6 @@ The application allows users to communicate with each other directly through the
 
 🔗 **[Open Chat App](https://ivanposavi.github.io/chat-app/)**
 
-> Replace the link above with the URL of your deployed application.
-
 ---
 
 ## 📸 Preview
@@ -22,22 +20,22 @@ The application allows users to communicate with each other directly through the
 
 ## ✨ Features
 
-* 💬 Real-time user communication
-* 👤 Multiple users can join the chat
-* 🌐 Accessible directly through a web browser
-* 📱 Responsive user interface
-* ⚛️ Built with React
-* 🔄 Dynamic chat updates
-* 🎨 Clean and simple interface
+- 💬 Real-time user communication
+- 👤 Multiple users can join the chat
+- 🌐 Accessible directly through a web browser
+- 📱 Responsive user interface
+- ⚛️ Built with React
+- 🔄 Dynamic chat updates
+- 🎨 Clean and simple interface
 
 ---
 
 ## 🛠️ Built With
 
-* **React**
-* **JavaScript**
-* **HTML5**
-* **CSS3**
+- **React**
+- **JavaScript**
+- **HTML5**
+- **CSS3**
 
 ---
 
@@ -97,13 +95,13 @@ The main goal was to apply the knowledge gained during the course and build a fu
 
 Through this project, I gained practical experience with:
 
-* React application development
-* Component-based architecture
-* Managing application state
-* Working with user interactions
-* Building responsive interfaces
-* Using Git and GitHub
-* Developing and testing a complete web application
+- React application development
+- Component-based architecture
+- Managing application state
+- Working with user interactions
+- Building responsive interfaces
+- Using Git and GitHub
+- Developing and testing a complete web application
 
 ---
 
@@ -111,15 +109,15 @@ Through this project, I gained practical experience with:
 
 Possible improvements for future versions include:
 
-* 🔐 User authentication
-* 👤 User profiles
-* 🟢 Online/offline status
-* 🕒 Message timestamps
-* 🗑️ Delete or edit messages
-* 📎 File and image sharing
-* 🔔 Notifications
-* 🌙 Dark mode
-* 📱 Further mobile UI improvements
+- 🔐 User authentication
+- 👤 User profiles
+- 🟢 Online/offline status
+- 🕒 Message timestamps
+- 🗑️ Delete or edit messages
+- 📎 File and image sharing
+- 🔔 Notifications
+- 🌙 Dark mode
+- 📱 Further mobile UI improvements
 
 ---
 
@@ -134,8 +132,6 @@ Front-End Developer
 ---
 
 ### 💡 Built with React while learning, experimenting, and improving.
-
-
 
 # Getting Started with Create React App
 
