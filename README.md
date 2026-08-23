@@ -6,9 +6,7 @@ The application allows multiple users to communicate in real time directly throu
 
 ## 🚀 Live Demo
 
-🔗 **[Open Chat App](#)**
-
-> Replace the link above with your deployed application URL.
+🔗 **[Open Chat App](https://ivanposavi.github.io/chat-app/)**
 
 ---
 
