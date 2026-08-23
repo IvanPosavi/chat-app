@@ -1,6 +1,6 @@
 # 💬 Chat App
 
-A real-time web chat application built with **React** and **ScaleDrone** as my final project during the Front-End Development course at Algebra.
+A real-time web chat application built with **React** and **ScaleDrone** as my final project during the Front-End Development course at University of Algebra.
 
 The application allows multiple users to communicate in real time directly through the browser. Users can join the chat by opening the application link and start exchanging messages without installing any additional software.
 
@@ -92,7 +92,7 @@ ScaleDrone
 
 ## 🎯 Project Purpose
 
-This application was created as my **final project for the Front-End Development course at Algebra**.
+This application was created as my **final project for the Front-End Development course at University of Algebra**.
 
 The goal was to combine the knowledge gained during the course into a functional React application with real-time communication.
 
@@ -139,5 +139,5 @@ Front-End Developer
 
 ### 💡 Built with React & ScaleDrone
 
-Created as a final project during my Front-End Development course at Algebra.
+Created as a final project during my Front-End Development course at University of Algebra.
 
