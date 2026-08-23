@@ -14,8 +14,6 @@ The application allows users to communicate with each other directly through the
 
 ![Chat App Screenshot](./screenshots/chat-app.png)
 
-> Add a screenshot of the application to the `screenshots` folder and name it `chat-app.png`.
-
 ---
 
 ## ✨ Features
