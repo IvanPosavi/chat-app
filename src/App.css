@@ -1,8 +1,8 @@
 .App {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
-  height: 90vh;
+  justify-content: space-between;
+  height: 100vh;
 }
 
 .Messages-list {
