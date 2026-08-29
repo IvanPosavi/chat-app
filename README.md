@@ -127,13 +127,24 @@ Some features I would like to add in future versions:
 
 ---
 
-## 👨‍💻 Author
+## 🔒 License
 
-### Ivan Posavi
+Copyright © 2026 Ivan Posavi.  
+All rights reserved.
 
-Front-End Developer
+This project is publicly available for portfolio, educational, recruitment, and evaluation purposes only.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/IvanPosavi)
+You may view the source code, but you may not copy, modify, redistribute, sublicense, sell, or use this source code in another project without prior written permission.
+
+See the [LICENSE](LICENSE) file for the full terms.
+
+---
+
+## 👤 Author
+
+**Ivan Posavi**  
+Frontend Developer  
+[GitHub](https://github.com/ivanposavi)
 
 ---
 
